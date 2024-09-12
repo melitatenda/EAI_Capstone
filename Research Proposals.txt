@@ -1,0 +1,156 @@
+Research Proposals
+Writing a research proposal is the first step for a research project. Before you can work on your
+research, it must be approved, whether that is by a professor, thesis advisor, or supervisor. It is
+essential to make your proposal as strong as possible; if your proposal is denied, you may not get
+the funding you need or may not get to progress in graduate school.
+Present your proposal clearly, effectively, and persuasively. The specific requirements for a
+proposal vary depending on the grant, program, or degree you are writing it for—make sure to
+always cross reference your proposal with its provided guidelines. However, most research
+proposals tend to include the same key parts.
+Key Parts of a Research Proposal
+A research proposal is a document that outlines a research project’s goal, significance, and
+practical application, i.e., how it will actually be done. It should establish a need for the research
+within its field and must also convince readers about its credibility, achievability, practicality,
+and sometimes even reproducibility. Some may be shorter, and others may be longer, so be sure
+to check the specific requirements and examples from your program.
+● Introduction / Research Question
+● Rationale
+● Literature Review
+● Methodology
+● Budget and Timeframe
+● Conclusion
+● References / Appendices /
+Bibliography
+The parts of a project proposal will vary
+depending on your purpose, your field, and
+the kind of project you are proposing, but
+the sections listed to the left are commonly
+included in most research proposals. We
+have separate handouts on introductions,
+literature reviews, conclusions, and
+references, so they will not be covered here.
+Research Question
+Generating your research question is, technically, work that is done before you begin writing
+your research proposal. However, it is still crucial to continue to evaluate it as you write. Make
+sure your research question is not only clear but fills a gap in its field.
+Consider existing research. Has someone already done what you’re considering? What problems
+will your research help solve? What exactly do you plan to do to research your question, and is it
+feasible? Additionally, look at your question itself. Is it too vague or directionless? Does it need
+to be more specific to fill a certain niche? Or, is it so specific that it won’t contribute much to its
+field as a whole? Also remember that “how” and “why” questions tend to be stronger because
+they open up more in-depth research and analysis.
+Your research question is the basis of your research proposal and, by extension, your entire
+project. It is essential that it is not only understandable but also has potential.
+Research Proposals, Spring 2022. 2 of 5
+Sample Research Questions
+How does restricting electronic use at an early age affect children’s social development?
+Why are health education strategies effective in preventing teen pregnancy in California?
+How do gentrification and city development initiatives influence local school funding?
+Rationale
+Rationale establishes your research’s significance. You are tasked with demonstrating how and
+why your research is relevant to its field. Does it fill a gap in the existing body of research? Does
+it underscore or emphasize existing research? Will it add new, original knowledge to the existing
+understanding of your subject?
+Rationale may also sometimes be called background, but they are not exactly the same. Rationale
+differs from background because you do not only need to be descriptive—you must also be
+persuasive in convincing the reader that your research is necessary. Note how the rationale
+excerpt below balances description with persuasion.
+Sample Selection from a Research Proposal Rationale
+“In 2019, the Centers for Disease Control and Prevention estimated that 329,000 Americans
+were injured in cycling related incidents [20]. If a system that simplifies the braking process and
+decreases stopping distances can prevent a small fraction of these injuries, then a large impact on
+bicycle safety can be made. Bicycle sales have been growing exponentially since 2006, with the
+quantity of e-bikes outpacing traditional bikes [21]. Due to the higher speed and mass of e-bikes,
+the required stopping distances can greatly increase, leading to more injuries. However, e-bikes
+are particularly suited for brake proportioning technologies because not only are they faster and
+heavier, they also have a lower center of mass, hydraulic disc brakes, regenerative braking and
+integrated electronic control systems” (Design and simulation of a single-lever bicycle brake
+with hydraulic pressure proportioning to minimize stopping distance 7).
+Methodology
+Your methodology must be clear and logically organized because it will convince readers of the
+actual practicality of your idea. Although it may be difficult, especially since you are not yet
+performing your research, you must build confidence in the fact that you would be capable of
+doing so.
+Consider drawing examples from your literature review, emulating good approaches by other
+researchers, and being specific about the methods you will use. Methodology includes not just
+establishing your research process, but also outlining the methods you will use for interpreting
+your potential findings.
+Additionally, try not to simply discuss what you plan to accomplish from using these methods.
+Your methodology section isn’t just a collection of activities; explain why your methods are the
+most effective approach possible for your specific research. You can also acknowledge or predict
+any possible drawbacks in your planned methods and provide a plan of action to solve them.
+Research Proposals, Spring 2022. 3 of 5
+Sample Selection from a Research Proposal Methodology
+“The most significant risk to this experiment would be that if the specimens are too thin,
+they might tear. . . compromising the repeatability of the experiment. The contingency for this
+would be to try multiple thicknesses. . . Furthermore, extra electrolyte films could be produced
+so. . . they could be easily replaced during testing. It must be noted that this contingency would
+place a greater burden and responsibility on the fabrication and fabricator of the specimen.
+However, recent communications suggest that fabricating higher quantities of test specimens is
+not overly taxing or time consuming” (Electrochemomechanical Effects of Cyclic Compression
+on a Composite Polymer Electrolyte for Lithium-Ion Batteries 6).
+Budget and Timeframe
+Regardless of how watertight the rest of your research proposal may be, an unrealistic budget can
+greatly affect your proposal’s persuasiveness. You can be somewhat generous with your budget
+estimates to allow yourself flexibility, but if you propose something too costly, nobody will want
+to fund your research. It is important to balance the two concepts and keep project approval at
+the forefront of your mind. Your budget projections also need to be specific (e.g., $500 for
+copying costs, $25 gift cards for 35 participants, etc.).
+It is equally important to evaluate the feasibility of your research’s timeline. Is the scope too big,
+or is your research too narrow? Consider your overall time constraints and if your predicted
+methods are realistic and efficient. Acknowledging and addressing these concerns in your
+proposal can help establish your credibility and make your proposal more persuasive.
+Activity 1: Weak Research Questions
+The following research questions are all weak for a variety of reasons, including vague wording,
+too-wide scope, or already-researched subjects. Pretend you are the researcher, who has just been
+told their research question is not feasible but still wants to do research on the same subject.
+Target each question’s main weaknesses when you rewrite. Stay close to the original question’s
+subject, but feel free to add new info and take it in whatever direction you feel is strongest.
+1. How are LGBT youth affected by social media?
+2. Does adding more lanes to a highway increase congestion?
+3. How is AI changing data collection?
+4. Do low-commuter schools have better student outcomes?
+Sample Answer Key for Activity 1
+1. How is youth education about LGBT history being affected by the rise of social media?
+2. How do well-designed highways continue to contribute to congestion in the Bay Area?
+3. How can AI-based data collection be used to predict trends in the fashion industry?
+4. How does the commuting rate of a university impact its students’ academic performance?
+Research Proposals, Spring 2022. 4 of 5
+Activity 2: Research Proposal Scenario
+You are a graduate student looking to receive more funding for your next research project and
+have discovered that your department provides graduate research and development grants. When
+you take a look at your department’s research grant FAQ, the only information is as follows.
+Your research proposal should include the following sections:
+Introduction, Background, Literature Review, Methodology, Budget and Timeline, and
+Conclusion.
+Writing roughly 1-2 sentences for each heading, create a mini-research proposal for this grant
+opportunity. Assume the department you are writing for is your own.
+Sample Answer Key for Activity 2
+1. Introduction
+The ways in which non-traditional learning environments like Montessori and Waldorf
+education promote positive development in preschoolers will be investigated.
+2. Background
+Parents commonly enroll their children in non-traditional learning environments with the
+goal of enriching their education. However, what tangible positive developments do nontraditional learning environments create?
+3. Literature Review
+Current literature suggests that the quality of preschool center classrooms is modestly
+related to overall acquisition of language and mathematics skills (Keys et al. 1186).
+Additionally, preschool quality is also connected to the development of “language skills
+for children of highly educated mothers. . . and social skills for children who entered
+preschool-age care with lower cognitive skills or had mothers with some college” (Keys
+et al. 1186).
+4. Methodology
+Assessments of children’s cognitive, academic, and social skills will be conducted
+throughout non-traditional schools, including pre-K and elementary school education.
+The outcomes of preschoolers will be compared against the outcomes of older elementary
+school children in the same school.
+5. Budget and Timeline
+The data collection will take place concurrently at several schools over the course of one
+term. After data collection, researchers will record and analyze the data. Overall, research
+should take no longer than one academic year (between August 15, 2022 and June 15,
+2023). Participatory schools will be compensated for their time ($500 per school, with the
+goal of 10 schools participating).
+6. Conclusion
+The competitive, positive development which many non-traditional schools base
+themselves on must be concretely analyzed and evaluated to substantiate their claims and
+help parents make informed decisions for their children’s preschool education.
